@@ -1,3 +1,1 @@
-// hjdsjhjh
-// bvmbvmvm
-// jai shree ram
+console.log("jai shree ram")
